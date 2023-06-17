@@ -6,8 +6,8 @@ Este es el proyecto inicial para crear aplicacion utilizando webpack.
 
 Recuerden contruir los modulos de node
 
-npm install
+`npm install`
 
 Y para construir el build, recuerden:
 
-npm run build
+`npm run build`
